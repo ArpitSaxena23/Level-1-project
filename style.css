@@ -227,6 +227,20 @@ html{
     border-radius: 9px;
     font-size: 1.1rem;
 }
+.submit{
+    color: rgb(0, 7, 8);
+    background-color: rgb(21, 226, 192);
+    display: block;
+    padding: 3px 6px;
+    border-radius: 8px;
+    font-size: medium;
+    text-decoration: none;
+}
+.submit:hover{
+    color: black;
+    background-color: aquamarine;    
+
+}
 footer{
     background: black;
     color: white;
